@@ -1,7 +1,7 @@
 # biblia.txt
 TXT files containing Romanian Orthodox Bible
 
-Deployed: [biblia.tra1an.com](http://biblia.tra1an.com/)
+~~Deployed: [biblia.tra1an.com](http://biblia.tra1an.com/)~~
 
 Scraped from [bibliaortodoxa.ro](http://www.bibliaortodoxa.ro/) using the [extractor](extractor.py)
 
